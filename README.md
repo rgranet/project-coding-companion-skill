@@ -71,6 +71,10 @@ project-coding-companion-skill/        ← This repo
 
 ## Installation
 
+## Quick install
+
+npx skills add rgranet/project-coding-companion-skill
+
 ### Claude Code
 
 1. Clone this repo:
