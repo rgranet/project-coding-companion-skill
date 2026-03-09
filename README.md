@@ -72,9 +72,9 @@ project-coding-companion-skill/        ← This repo
 ## Installation
 
 ## Quick install
-
+```bash
 npx skills add rgranet/project-coding-companion-skill
-
+```
 ### Claude Code
 
 1. Clone this repo:
